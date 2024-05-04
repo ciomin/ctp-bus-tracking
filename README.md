@@ -73,8 +73,10 @@ The CTP Bus Tracking project is a web-based application that uses Google Maps an
 - Allows users to toggle between different bus routes.
 - Fetches transit data through the Tranzy.Dev API.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+_For a list of ongoing tasks and improvements, please refer to the [Roadmap](#roadmap)_
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ### Built With
@@ -92,9 +94,9 @@ The CTP Bus Tracking project is a web-based application that uses Google Maps an
 <!-- ROADMAP -->
 ## Roadmap
 
+- [ ] Implement real-time bus location updates using Socket.IO
 - [ ] Refactor `map.component.ts` for better code organization
     - [ ] Restructure files
-- [ ] Implement real-time bus location updates using Socket.IO
 - [ ] Improve the route selection interface for better usability
 - [ ] Restrict panning beyond relevant map areas and remove built-in Google Maps buttons (Fullscreen, Street View)
 
